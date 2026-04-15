@@ -1,6 +1,6 @@
 #ifndef TOPO_GEOMETRY_H
 #define TOPO_GEOMETRY_H
-
+#include <list>
 #include <boost/geometry.hpp>
 #include <boost/geometry/geometries/point_xy.hpp>
 
